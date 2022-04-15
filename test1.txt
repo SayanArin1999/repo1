@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 66E1-15EC
+
+ Directory of C:\Users\KIIT\Downloads\git_arin
+
+15-04-2022  11:16    <DIR>          .
+15-04-2022  11:16    <DIR>          ..
+15-04-2022  11:16                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  34,323,451,904 bytes free
